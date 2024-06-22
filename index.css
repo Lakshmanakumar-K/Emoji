@@ -1,0 +1,63 @@
+.box{
+
+}
+
+.mycontainer{
+	
+}
+
+.myrow{
+	
+}
+
+.mycol{
+	
+}
+
+.heading{
+	text-align: center;
+    background-color: rgb(200, 93, 93);
+    color: white;
+}
+
+body{
+    background-color:rgb(202, 141, 202);
+}
+
+.secrow{
+}
+
+.seccol{
+	text-align:center;
+	padding: 20px;
+    color:white;
+}
+
+.thirdrow{
+}
+
+.thirdcol{
+	text-align: center;
+	padding: 20px;
+    color:white;
+}
+.fourrow{
+}
+
+.fourcol{
+	text-align: center;
+	padding: 20px;
+    color:white;
+}
+
+.fifthrow{
+	
+}
+
+.col{
+    border: 1px solid black;
+    color: white;
+    background-color: grey;
+    margin:5px;
+    border-radius: 5px;
+}
